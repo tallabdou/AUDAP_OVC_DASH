@@ -1,0 +1,6 @@
+ps aux | grep python
+
+nohup python main.py > output.txt  &
+
+
+nouveau ipd : 2890673
